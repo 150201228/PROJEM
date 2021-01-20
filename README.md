@@ -1,16 +1,16 @@
-## Mehmet T�Z�NER(150201228)
+## Mehmet TÜZÜNER(150201228)
 # Adres Defteri Modulu (Yii2 address book module)
 
-Portal tabanlı Adres Defteri ve Arama Kaydi tutabilen Yii2 moduludur.
+Portal tabanlÄ± Adres Defteri ve Arama Kaydi tutabilen Yii2 moduludur.
 
 This module is Portal based Yii2 module can address book and is a module that can keep your last call records.
 
 
 ## Kurulum (Installation)
 
-Modul kurulumu icin Oncellikle [Portal Repository](https://github.com/150201228/portal) reposundaki kurulum talimatlarini takip etmelisiniz.
+Modul kurulumu icin Oncellikle [Portal Repository](https://github.com/150201228/PROJEM) reposundaki kurulum talimatlarini takip etmelisiniz.
 
-For module installation, you must first follow the installation instructions in the [Portal Repository] (https://github.com/150201228/portal) repo.
+For module installation, you must first follow the installation instructions in the [Portal Repository] (https://github.com/150201228/PROJEM) repo.
 
 Modulu aktif etmek ve tanimlamak icin asagidaki konumda bulunan dosyalar? alttaki sekilde editlemelisiniz:
 
